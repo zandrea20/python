@@ -12,5 +12,5 @@ def main():
     else:
         print(f"The factoral of n is {factorial(n)}")
 
-
+if __name__ == "__main__":
     main()
