@@ -6,7 +6,7 @@ steps = []
 # It also allows me to covert the input into an integer which will be helpfull when getting the total and average steps
 for day in days:
     s = int(input(f"How many steps did you take on {day}? : "))
-     
+    steps.append(s)
 
 print()
 
